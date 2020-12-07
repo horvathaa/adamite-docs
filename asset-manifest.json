@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/adamite-docs/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/adamite-docs/static/js/main.e007a1ee.chunk.js",
+    "main.js.map": "/adamite-docs/static/js/main.e007a1ee.chunk.js.map",
+    "runtime-main.js": "/adamite-docs/static/js/runtime-main.2195cf66.js",
+    "runtime-main.js.map": "/adamite-docs/static/js/runtime-main.2195cf66.js.map",
+    "static/js/2.48f83a02.chunk.js": "/adamite-docs/static/js/2.48f83a02.chunk.js",
+    "static/js/2.48f83a02.chunk.js.map": "/adamite-docs/static/js/2.48f83a02.chunk.js.map",
+    "static/js/3.04f0dd4c.chunk.js": "/adamite-docs/static/js/3.04f0dd4c.chunk.js",
+    "static/js/3.04f0dd4c.chunk.js.map": "/adamite-docs/static/js/3.04f0dd4c.chunk.js.map",
+    "index.html": "/adamite-docs/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/adamite-docs/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.48f83a02.chunk.js.LICENSE.txt": "/adamite-docs/static/js/2.48f83a02.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/adamite-docs/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2195cf66.js",
+    "static/js/2.48f83a02.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.e007a1ee.chunk.js"
+  ]
+}
