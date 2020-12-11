@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/adamite-docs/static/css/main.6e3bc08f.chunk.css",
-    "main.js": "/adamite-docs/static/js/main.fb03feb9.chunk.js",
-    "main.js.map": "/adamite-docs/static/js/main.fb03feb9.chunk.js.map",
+    "main.js": "/adamite-docs/static/js/main.c2679413.chunk.js",
+    "main.js.map": "/adamite-docs/static/js/main.c2679413.chunk.js.map",
     "runtime-main.js": "/adamite-docs/static/js/runtime-main.750cbf35.js",
     "runtime-main.js.map": "/adamite-docs/static/js/runtime-main.750cbf35.js.map",
     "static/js/2.e26f81ba.chunk.js": "/adamite-docs/static/js/2.e26f81ba.chunk.js",
@@ -13,12 +13,12 @@
     "static/css/main.6e3bc08f.chunk.css.map": "/adamite-docs/static/css/main.6e3bc08f.chunk.css.map",
     "static/js/2.e26f81ba.chunk.js.LICENSE.txt": "/adamite-docs/static/js/2.e26f81ba.chunk.js.LICENSE.txt",
     "static/media/annotation-marked-up.ffa77fac.png": "/adamite-docs/static/media/annotation-marked-up.ffa77fac.png",
-    "static/media/sidebar-annotated.852c5ecd.png": "/adamite-docs/static/media/sidebar-annotated.852c5ecd.png"
+    "static/media/sidebar-annotated.04715132.png": "/adamite-docs/static/media/sidebar-annotated.04715132.png"
   },
   "entrypoints": [
     "static/js/runtime-main.750cbf35.js",
     "static/js/2.e26f81ba.chunk.js",
     "static/css/main.6e3bc08f.chunk.css",
-    "static/js/main.fb03feb9.chunk.js"
+    "static/js/main.c2679413.chunk.js"
   ]
 }
