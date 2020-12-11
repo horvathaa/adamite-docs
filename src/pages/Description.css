@@ -1,0 +1,34 @@
+.adamite-description {
+    font-size: 20px;
+    padding: 10px;
+    text-align: left;
+}
+
+.breakdown-container {
+    display: flex;
+    font-size: 18px;
+}
+
+.image-container {
+    width: 100%;
+    position: relative;
+    margin: auto;
+}
+
+.image-description {
+    position: relative;
+    margin: 10px;
+    text-align: left;
+}
+
+.image-description ol, li {
+    padding: 6px;
+}
+
+.sub-header {
+    font-weight: 600;
+    color: #272727;
+    font-style: oblique;
+    font-size: 24px;
+    padding-top: 8px;
+}
