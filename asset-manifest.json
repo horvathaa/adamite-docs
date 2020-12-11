@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/adamite-docs/static/css/main.8129fca1.chunk.css",
-    "main.js": "/adamite-docs/static/js/main.bca63ffd.chunk.js",
-    "main.js.map": "/adamite-docs/static/js/main.bca63ffd.chunk.js.map",
+    "main.js": "/adamite-docs/static/js/main.df3a94a1.chunk.js",
+    "main.js.map": "/adamite-docs/static/js/main.df3a94a1.chunk.js.map",
     "runtime-main.js": "/adamite-docs/static/js/runtime-main.750cbf35.js",
     "runtime-main.js.map": "/adamite-docs/static/js/runtime-main.750cbf35.js.map",
     "static/js/2.48f83a02.chunk.js": "/adamite-docs/static/js/2.48f83a02.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.750cbf35.js",
     "static/js/2.48f83a02.chunk.js",
     "static/css/main.8129fca1.chunk.css",
-    "static/js/main.bca63ffd.chunk.js"
+    "static/js/main.df3a94a1.chunk.js"
   ]
 }
