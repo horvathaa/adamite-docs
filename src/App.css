@@ -2,6 +2,34 @@
   text-align: center;
 }
 
+nav {
+  text-align: left;
+  background-color: rgb(222, 236, 198);
+  color:rgb(19, 18, 18);
+  padding-top: calc(5px + 1vmin);
+  display: flex;
+  /* flex-direction: column; */
+  text-decoration: none;
+  padding: 5px;
+}
+
+a {
+  text-decoration: none;
+  color:rgb(19, 18, 18)
+}
+
+a:visited {
+  text-decoration: none;
+  color:rgb(19, 18, 18)
+}
+
+a:hover {
+  text-decoration: none;
+  color:rgb(19, 18, 18)
+}
+
+
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -26,6 +54,11 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.body-description {
+  text-align: center;
+  display: block;
 }
 
 @keyframes App-logo-spin {
