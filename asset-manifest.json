@@ -1,25 +1,33 @@
 {
   "files": {
-    "main.css": "/adamite-docs/static/css/main.9ce40cb8.chunk.css",
-    "main.js": "/adamite-docs/static/js/main.f551084b.chunk.js",
-    "main.js.map": "/adamite-docs/static/js/main.f551084b.chunk.js.map",
-    "runtime-main.js": "/adamite-docs/static/js/runtime-main.448979e8.js",
-    "runtime-main.js.map": "/adamite-docs/static/js/runtime-main.448979e8.js.map",
-    "static/js/2.a41005ba.chunk.js": "/adamite-docs/static/js/2.a41005ba.chunk.js",
-    "static/js/2.a41005ba.chunk.js.map": "/adamite-docs/static/js/2.a41005ba.chunk.js.map",
-    "static/js/3.7d537f95.chunk.js": "/adamite-docs/static/js/3.7d537f95.chunk.js",
-    "static/js/3.7d537f95.chunk.js.map": "/adamite-docs/static/js/3.7d537f95.chunk.js.map",
+    "main.css": "/adamite-docs/static/css/main.04126de0.chunk.css",
+    "main.js": "/adamite-docs/static/js/main.51df270b.chunk.js",
+    "main.js.map": "/adamite-docs/static/js/main.51df270b.chunk.js.map",
+    "runtime-main.js": "/adamite-docs/static/js/runtime-main.30efc948.js",
+    "runtime-main.js.map": "/adamite-docs/static/js/runtime-main.30efc948.js.map",
+    "static/js/2.db2028d2.chunk.js": "/adamite-docs/static/js/2.db2028d2.chunk.js",
+    "static/js/2.db2028d2.chunk.js.map": "/adamite-docs/static/js/2.db2028d2.chunk.js.map",
+    "static/js/3.32113f04.chunk.js": "/adamite-docs/static/js/3.32113f04.chunk.js",
+    "static/js/3.32113f04.chunk.js.map": "/adamite-docs/static/js/3.32113f04.chunk.js.map",
     "index.html": "/adamite-docs/index.html",
-    "static/css/main.9ce40cb8.chunk.css.map": "/adamite-docs/static/css/main.9ce40cb8.chunk.css.map",
-    "static/js/2.a41005ba.chunk.js.LICENSE.txt": "/adamite-docs/static/js/2.a41005ba.chunk.js.LICENSE.txt",
+    "static/css/main.04126de0.chunk.css.map": "/adamite-docs/static/css/main.04126de0.chunk.css.map",
+    "static/js/2.db2028d2.chunk.js.LICENSE.txt": "/adamite-docs/static/js/2.db2028d2.chunk.js.LICENSE.txt",
+    "static/media/adamite-install.5fe50d98.gif": "/adamite-docs/static/media/adamite-install.5fe50d98.gif",
     "static/media/adamite.6d147371.jpg": "/adamite-docs/static/media/adamite.6d147371.jpg",
     "static/media/annotation-marked-up.ffa77fac.png": "/adamite-docs/static/media/annotation-marked-up.ffa77fac.png",
-    "static/media/sidebar-annotated.04715132.png": "/adamite-docs/static/media/sidebar-annotated.04715132.png"
+    "static/media/chrome-url-bar.aafd727b.png": "/adamite-docs/static/media/chrome-url-bar.aafd727b.png",
+    "static/media/create-new-annotation.b0ee609a.png": "/adamite-docs/static/media/create-new-annotation.b0ee609a.png",
+    "static/media/dialogue-pop.a1824739.png": "/adamite-docs/static/media/dialogue-pop.a1824739.png",
+    "static/media/fresh-sidebar.1218f706.png": "/adamite-docs/static/media/fresh-sidebar.1218f706.png",
+    "static/media/new-user.43781edb.png": "/adamite-docs/static/media/new-user.43781edb.png",
+    "static/media/options.ed9c81f9.png": "/adamite-docs/static/media/options.ed9c81f9.png",
+    "static/media/sidebar-annotated.6b4bf9de.png": "/adamite-docs/static/media/sidebar-annotated.6b4bf9de.png",
+    "static/media/updated-sidebar.13749162.png": "/adamite-docs/static/media/updated-sidebar.13749162.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.448979e8.js",
-    "static/js/2.a41005ba.chunk.js",
-    "static/css/main.9ce40cb8.chunk.css",
-    "static/js/main.f551084b.chunk.js"
+    "static/js/runtime-main.30efc948.js",
+    "static/js/2.db2028d2.chunk.js",
+    "static/css/main.04126de0.chunk.css",
+    "static/js/main.51df270b.chunk.js"
   ]
 }
