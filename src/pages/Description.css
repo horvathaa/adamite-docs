@@ -1,7 +1,36 @@
 .adamite-description {
-    font-size: 20px;
+    font-size: 0.88em;
     padding: 10px;
+    font-weight: 300;
     text-align: left;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.sub-header > .adamite-description   {
+    font-style: normal;
+}
+
+.instruction-list {
+    font-size: 0.9em;
+}
+
+.img-container {
+   /* width: 1440px;
+    */
+    text-align: center;
+    padding: 10px;
+}
+
+.sub-step {
+    font-size: 0.95em;
+}
+
+img {
+    max-height:100%; max-width:100%;
 }
 
 .breakdown-container {
@@ -19,16 +48,58 @@
     position: relative;
     margin: 10px;
     text-align: left;
+    font-size: 1em;
 }
 
 .image-description ol, li {
     padding: 6px;
 }
 
+.sub-sub-header {
+    font-size: 1.2em;
+    font-weight: 200;
+}
+
+.embedded-link {
+    background-color: rgb(228, 240, 209);
+}
+
 .sub-header {
     font-weight: 600;
     color: #272727;
     font-style: oblique;
-    font-size: 24px;
+    font-size: 1.4em;
     padding-top: 8px;
 }
+
+@media (min-width: 1200px) {
+ .container {
+     max-width: 1140px;
+     margin-left: auto;
+     margin-right: auto
+ }
+}
+
+/* @media (min-width: 992px) {
+.container {
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto
+}
+}
+
+@media (min-width: 768px) {
+.container {
+    max-width: 720px;
+    margin-left: auto;
+    margin-right: auto
+}
+}
+
+@media (min-width: 576px) {
+    .container {
+        max-width: 540px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+   } */

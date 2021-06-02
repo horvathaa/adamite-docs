@@ -6,20 +6,19 @@ const Description = () => {
 
     return(
         <div className="adamite-description">
-            Adamite is a web-based annotation tool that allows developers to comment on, question, and keep track of learning resources they find useful or confusing.
-            Annotations can be thought of as meta-level "content" that is "anchored" to a specific piece of text.
+
 
             <div className="sub-header">
+                <h3>
                 What is an annotation in Adamite?
+                </h3>
             </div>
-            <div>
-                This is an annotation as it appears in Adamite's sidebar, with numerical markings referring to each part of the annotation. 
-            </div>
-
-            <div className="breakdown-container">
-                <div className="image-container">
+            <div className="img-container">
                     <img src={annotationMarkedUp} alt='showing annotation with numbers referencing each part of the annotation' />
                 </div>
+
+            <div className="breakdown-container">
+                
                 <div className="image-description">
                     <ol>
                         <li>
