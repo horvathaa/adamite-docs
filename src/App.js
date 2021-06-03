@@ -13,16 +13,16 @@ export default function App() {
     <Router>
     <div className="App">
       <nav>
-        <Link to="/">Home</Link> &nbsp; &nbsp;
+        <Link to="/adamite-docs">Home</Link> &nbsp; &nbsp;
       <Link to="/docs">Documentation</Link>
       </nav>
           
 
       
     <Switch>
-      <Route exact path="/">
+      {/* <Route exact path="/">
         <Home />
-      </Route>
+      </Route> */}
       <Route path="/adamite-docs">
         <Home />
       </Route>
@@ -54,18 +54,18 @@ return(
       You can also connect information using Adamite's multi-anchoring system, as you try and find useful information.
       You can then share your annotations with your colleagues, using Adamite's group system.
       <hr />
-      The Chrome extension is currently in the development stage as part of the Natural Programming Project.
+      The Chrome extension is currently in the development stage as part of the <a href="http://www.cs.cmu.edu/~NatProg/">Natural Programming Project</a>.
     <hr />
-      Team members: Amber Horvath, Michael Liu, Connor Shannon, River Hendriksen, Kazi Jawad, Andrew Macvean, and Brad Myers.
+      Team members: <a href="http://www.amberhorvath.com" className="embedded-link">Amber Horvath</a>, <a href="https://lxieyang.github.io/" className="embedded-link">Michael Liu</a>, Connor Shannon, River Hendriksen, <a href="https://kazijawad.com/" className="embedded-link">Kazi Jawad</a>, Andrew Macvean, and <a href="http://www.cs.cmu.edu/~bam/" className="embedded-link">Brad Myers</a>.
 
     </div>
     <h2>Publications</h2>
     <div className="description extra">
-      Amber Horvath, Michael Xieyang Liu, Connor Shannon, River Hendriksen, Kazi Jawad, Lai Wei, Andrew Macvean, Brad A Myers, "ADAMITE: Developer-Authored Annotations Facilitate API Learning" (in-submission)
+      Amber Horvath, Michael Xieyang Liu, Connor Shannon, River Hendriksen, Kazi Jawad, Lai Wei, Andrew Macvean, Brad A Myers, "ADAMITE: Developer-Authored Annotations Facilitate API Learning" (in-submission).
     </div>
     <h2>Funding</h2>
     <div className="description extra">
-      This work is funded by the NSF grant "Personalizing API Documentation".
+      This work is funded by NSF grant "Personalizing API Documentation" (award CCF-2007482) and Google.
     </div>
     
   </header>
