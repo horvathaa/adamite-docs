@@ -145,7 +145,8 @@ const InstallationGuide = () => {
                                     </div>
                                 </li>
                                 <li className="sub-step">
-                                    Each button represents an <b>annotation type</b> - a way of structuring your annotation dependent upon what the goal of your annotation is - we will discuss each annotation type in depth further on in the documentation
+                                    Each button represents an <b>annotation type</b> - a way of structuring your annotation dependent upon what the goal of your annotation is. 
+                                     {/* - we will discuss each annotation type in depth further on in the documentation */}
                                 </li>
                             </ul>
                         </li>
@@ -182,7 +183,7 @@ const InstallationGuide = () => {
                                     Your annotation will appear in the sidebar and the text that you annotated will now stay highlighted on the webpage.
                                 </li>
                                 <div className="img-container">
-                                    <img src={updated} alt="Sidebar with new annotation in it"/>
+                                    <img style={{border: "2px solid green"}} src={updated} alt="Sidebar with new annotation in it"/>
                                 </div>
                             </ul>
                         </li>
