@@ -54,7 +54,7 @@ return(
       You can also connect information using Adamite's multi-anchoring system, as you try and find useful information.
       You can then share your annotations with your colleagues, using Adamite's group system.
       <hr />
-      The Chrome extension is currently in the development stage as part of the <a href="http://www.cs.cmu.edu/~NatProg/">Natural Programming Project</a>.
+      The Chrome extension is currently in the development stage as part of the <a href="http://www.cs.cmu.edu/~NatProg/" className="embedded-link">Natural Programming Project</a>.
     <hr />
       Team members: <a href="http://www.amberhorvath.com" className="embedded-link">Amber Horvath</a>, <a href="https://lxieyang.github.io/" className="embedded-link">Michael Liu</a>, Connor Shannon, River Hendriksen, <a href="https://kazijawad.com/" className="embedded-link">Kazi Jawad</a>, Andrew Macvean, and <a href="http://www.cs.cmu.edu/~bam/" className="embedded-link">Brad Myers</a>.
 
