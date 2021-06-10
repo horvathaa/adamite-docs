@@ -109,6 +109,10 @@ h2, .pageHeader{
   font-size: 1.7em;
 }
 
+#Overview {
+  margin-bottom: 0;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

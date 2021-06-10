@@ -39,6 +39,11 @@ const Description = () => {
                     </ol>
                 </div>
             </div>
+            <div className="breakdown-container">
+                <p>
+                    More documentation coming soon!
+                </p>
+            </div>
         </div>
     );
 

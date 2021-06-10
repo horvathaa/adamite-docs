@@ -50,8 +50,12 @@ return(
       <a href="https://drive.google.com/file/d/1iZVJ7-paTvxFk05is-cDABp5VmjO6aSz/view?usp=sharing" className="btn">Download Adamite here!</a>
       &nbsp; &nbsp;<Link to="/docs#installation" className="btn">Installation Instructions Here</Link>
     </div>
-    <h2>Overview</h2>
+    <h2 id="Overview">Overview</h2>
     <div className="description">
+      <p>
+        Adamite is a browser plugin that supports annotating web resources, such as documentation. Currently, Adamite only works on the Chrome web browser running on a desktop computer (not on phones or tablets).
+      </p>
+      
       You can use Adamite's annotation types to organize and structure the information you find online and save it into a sidebar.
       With Adamite's searching, tagging, filtering, and pinning mechanisms, you can keep track of the information you want to follow up on.
       You can also connect information using Adamite's multi-anchoring system, as you try and find useful information.
@@ -69,6 +73,9 @@ return(
     <h2>Funding</h2>
     <div className="description extra">
       This work is funded by NSF grant "Personalizing API Documentation" (award CCF-2007482) and Google.
+      <p>
+      Any opinions, findings and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect those of the National Science Foundation or any other sponsor.
+      </p>
     </div>
     
   </header>

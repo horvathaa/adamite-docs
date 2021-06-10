@@ -75,19 +75,18 @@ const InstallationGuide = () => {
                     Setting Up Adamite
                 </div>
                 <div className="adamite-description">
-                With Adamite installed, you can set some preferences for how it operates.
-                <br />
-                <br />
-                By either right-clicking the Adamite badge in your Chrome URL navigation bar or by clicking the jigsaw puzzle icon and finding Adamite in the list of icons and clicking the 3-dot icon button, you will see a menu that includes an “Options” option.
-                <br />
-                <br />
-                When you are logged into your Adamite account,  you can also click "Options" in the sandwich menu in the top right corner of the sidebar to go to the "Options" page.
+                    With Adamite installed, you can set some preferences for how it operates.
+                    <br />
+                    <br />
+                    By either right-clicking the Adamite badge in your Chrome URL navigation bar or by clicking the jigsaw puzzle icon and finding Adamite in the list of icons and clicking the 3-dot icon button, you will see a menu that includes an “Options” option.
+                    <br />
+                    <br />
+                    When you are logged into your Adamite account,  you can also click "Options" in the sandwich menu in the top right corner of the sidebar to go to the "Options" page.
+                    <div className="img-container">
+                        <img src={options} alt="Options shown in context menu"/>
+                    </div>
 
-                <div className="img-container">
-                    <img src={options} alt="Options shown in context menu"/>
-                </div>
-
-                You can choose whether you want the sidebar to appear on the right or left side of your screen (default choice is right) and whether you want the content of the webpage that Adamite is on to shrink given the width of the sidebar (default choice is yes). Otherwise, Adamite overlays part of the webpage.
+                    You can choose whether you want the sidebar to appear on the right or left side of your screen (default choice is right) and whether you want the content of the webpage that Adamite is on to shrink given the width of the sidebar (default choice is yes). Otherwise, Adamite overlays part of the webpage.
 
                 </div>
                 <div className="sub-sub-header">
@@ -95,33 +94,44 @@ const InstallationGuide = () => {
                 </div>
                 <div className="adamite-description">
                     <p>
-                    To begin using Adamite, navigate to a webpage you would like to annotate - for example, this documentation page!
+                        To begin using Adamite, navigate to a webpage you would like to annotate - for example, this documentation page!
                     </p>
-
                     <p>
-                    The Adamite sidebar should open automatically. If you ever want to open or close the sidebar, you can click the Adamite badge at the right side of the Chrome URL navigation bar.
-                    When you are signed into Adamite, you can also close the sidebar by selecting the "Close Sidebar" option from the sandwich menu.
+                        The Adamite sidebar should open automatically. 
+                        <ul>
+                            <li>
+                                If Adamite does not open, try clicking on the Adamite badge.
+                            </li>
+                            <li>
+                                If that still doesn’t work, then try refreshing the page (sometimes Adamite doesn’t know to open on pages that were loaded before Adamite was installed).
+                            </li>
+                        </ul>
+                        If you ever want to open or close the sidebar, you can click the Adamite badge at the right side of the Chrome URL navigation bar. When you are signed into Adamite, you can also close the sidebar by selecting the "Close Sidebar" option from the sandwich menu.
                     </p>
 
                     <div className="img-container">
                         <img src={urlBar} alt="Chrome URL bar with Adamite circled in extension list"/>
                     </div>
                     <p>
-                    Adamite is the circled green gemstone badge in the figure shown above.
+                        Adamite is the circled green gemstone badge in the figure shown above.
                     </p>
                     <p>
-                    Adamite will remember whether you had it open or closed such that, when you refresh your tab, it will either open automatically if you previously had it open or will remain closed if you previously had it closed. 
+                        Adamite will remember whether you had it open or closed such that, when you refresh your tab, it will either open automatically if you previously had it open or will remain closed if you previously had it closed. 
                     </p>
-                    <p> 
-                    When the Adamite sidebar opens, you can create a new account. You must have an account to use Adamite. Use a valid email address (however, Adamite does not check for now), and make up your own password.
+                    <p>
+                        When the Adamite sidebar opens, you can create a new account. You must have an account to use Adamite. Use a valid email address (however, Adamite does not check for now), and make up your own password.
+                        <p>
+                            <b> 
+                                Please use the same email that you used when agreeing to the study consent form.
+                            </b>
+                        </p>
                     </p>
                     <div className="img-container">
                         <img src={newUser} alt="Adamite sign in dialogue in sidebar"/>
                     </div>
                     <p>
-                    Once your account is created, you can begin annotating with Adamite.
+                        Once your account is created, you can begin annotating with Adamite.
                     </p>
-                
                 </div>
                 <div className="sub-sub-header">
                     Making your First Annotation
