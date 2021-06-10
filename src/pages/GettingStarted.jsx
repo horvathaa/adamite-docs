@@ -79,7 +79,7 @@ const InstallationGuide = () => {
                     </div>)}
                 </div>
                 {showVideo && <div className="img-container">
-                    <Video />
+                    <Video path={'video/adamite-install.mov'}/>
                 </div>}
                 <div className="sub-sub-header">
                     Setting Up Adamite
