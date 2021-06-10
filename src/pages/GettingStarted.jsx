@@ -1,6 +1,8 @@
 import React, {useState} from 'react';
+import Video from './Video';
+
 import './Description.css';
-import installGif from '../assets/adamite-install.gif';
+// import installGif from '../assets/adamite-install.gif';
 import options from '../assets/options.png';
 import urlBar from '../assets/chrome-url-bar.png';
 import newUser from '../assets/new-user.png';
@@ -12,7 +14,10 @@ import badge from '../assets/adamite-badge.png';
 
 const InstallationGuide = () => {
 
-    const [showGif, setShowGif] = useState(false);
+    // const [showGif, setShowGif] = useState(false);
+    const [showVideo, setShowVideo] = useState(false);
+
+
 
     return(
         <div >
@@ -64,12 +69,17 @@ const InstallationGuide = () => {
                     </li>
 
                 </ol>
-                {!showGif ? (<div style={{cursor: "pointer"}} className="embedded-link" onClick={() => setShowGif(true)}>Click here to show a GIF of how to install Adamite.</div>)
-                : (<div style={{cursor: "pointer"}} className="embedded-link" onClick={() => setShowGif(false)}>Hide?</div>)}
+                {!showVideo ? 
+                    (<div style={{cursor: "pointer"}} className="embedded-link" onClick={() => setShowVideo(true)}>
+                        Click here to show a 1-minute video of how to install Adamite.
+                        </div>)
+                : 
+                    (<div style={{cursor: "pointer"}} className="embedded-link" onClick={() => setShowVideo(false)}>
+                        Hide?
+                    </div>)}
                 </div>
-                {showGif && <div className="img-container">
-                    <img src={installGif} alt="gif showing the steps required for installing Adamite"/>
-                    
+                {showVideo && <div className="img-container">
+                    <Video />
                 </div>}
                 <div className="sub-sub-header">
                     Setting Up Adamite
