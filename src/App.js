@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Redirect, Route, Switch, Link, useLocation } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Switch, Link } from 'react-router-dom';
 // import Docs from './pages/Docs';
 import './App.css';
 import './pages/Description.css';
@@ -9,26 +9,27 @@ import SidebarDescription from './pages/SidebarDescription';
 import InstallationGuide from './pages/GettingStarted';
 
 export default function App() {
-  const { pathname } = useLocation();
   return (
-    <Router>
+    <Router basename={"/adamite-docs"}>
     <div className="App">
       <nav>
-        <Link to="/adamite-docs">Home</Link> &nbsp; &nbsp;
+        <Link to="/">Home</Link> &nbsp; &nbsp;
       <Link to="/docs">Documentation</Link>
       </nav>
           
 
       
     <Switch>
-    <Redirect from="/:url*(/+)" to={pathname.slice(0, -11)} />
       <Route exact path="/">
         <Home />
       </Route>
-      <Route path="/adamite-docs">
+      <Route exact path="//">
         <Home />
       </Route>
-      <Route path="/docs">
+      {/* <Route exact path="/adamite-docs">
+        <Home />
+      </Route> */}
+      <Route  path="/docs">
         <Docs />
       </Route>
     </Switch>
