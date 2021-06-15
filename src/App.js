@@ -48,7 +48,8 @@ function Home() {
           </div>
           <b>Adamite</b> is an annotation tool designed to help developers when learning a new software framework.
           <br />
-          <a href="https://drive.google.com/file/d/1iZVJ7-paTvxFk05is-cDABp5VmjO6aSz/view?usp=sharing" className="btn">Download Adamite here!</a>
+          {/* <a href="https://drive.google.com/file/d/1iZVJ7-paTvxFk05is-cDABp5VmjO6aSz/view?usp=sharing" className="btn">Download Adamite here!</a> */}
+          <a href="https://forms.gle/hSGiwY5tqooSLzxT9" className="btn">Sign up for our field study and download Adamite here!</a>
           &nbsp; &nbsp;<Link to="/docs#installation" className="btn">Installation Instructions Here</Link>
         </div>
         <h2 id="Overview">Overview</h2>
