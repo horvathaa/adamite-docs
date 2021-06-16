@@ -50,7 +50,7 @@ function Home() {
           <br />
           {/* <a href="https://drive.google.com/file/d/1iZVJ7-paTvxFk05is-cDABp5VmjO6aSz/view?usp=sharing" className="btn">Download Adamite here!</a> */}
           <a href="https://forms.gle/hSGiwY5tqooSLzxT9" className="btn">Sign up for our field study and download Adamite here!</a>
-          &nbsp; &nbsp;<Link to="/docs#installation" className="btn">Installation Instructions Here</Link>
+          &nbsp; &nbsp;<Link to="/docs" className="btn">Installation Instructions Here</Link>
         </div>
         <h2 id="Overview">Overview</h2>
         <div className="description">
@@ -66,7 +66,7 @@ function Home() {
           The Chrome extension is currently in the development stage as part of the <a href="http://www.cs.cmu.edu/~NatProg/" className="embedded-link">Natural Programming Project</a>.
         <hr />
           Team members: <a href="http://www.amberhorvath.com" className="embedded-link">Amber Horvath</a>, <a href="https://lxieyang.github.io/" className="embedded-link">Michael Liu</a>, Connor Shannon, River Hendriksen, <a href="https://kazijawad.com/" className="embedded-link">Kazi Jawad</a>, Andrew Macvean, and <a href="http://www.cs.cmu.edu/~bam/" className="embedded-link">Brad Myers</a>.
-
+          Contact us through <a href="mailto:ahorvath@andrew.cmu.edu" className="embedded-link">an email to talk about Adamite</a> or through submitting a bug or question related to Adamite by filling out <a href="https://forms.gle/2BAdVdxkWSGHVU2H7" className="embedded-link">this form</a>! 
         </div>
         <h2>Publications</h2>
         <div className="description extra">
@@ -95,6 +95,8 @@ function Home() {
           Any opinions, findings and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect those of the National Science Foundation or any other sponsor.
           </p>
         </div>
+        <hr />
+        <div className="description extra">Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
         
       </header>
     )

@@ -27,7 +27,7 @@ const InstallationGuide = () => {
                     Installing Adamite
                 </div>
                 <div className="adamite-description">
-                Currently, Adamite is in a limited, beta release - the most recent, stable version of Adamite can be <a href="https://drive.google.com/file/d/1iZVJ7-paTvxFk05is-cDABp5VmjO6aSz/view?usp=sharing" className="embedded-link">downloaded at this link</a>.
+                Currently, Adamite is in a limited, beta release - you may sign up for our field study and use Adamite by <a href="https://forms.gle/T2qXv4pjUfHbthUA9" className="embedded-link">filling out this form</a>.
                 
                 <br /> 
                 <br /> 
