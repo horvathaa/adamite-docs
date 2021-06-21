@@ -37,7 +37,7 @@ const SidebarDescription = () => {
                             The button to show the user's <b>list of pinned annotations</b>. If a user has no pinned annotatinos, this button will not appear.
                         </li>
                         <li>
-                            The first annotation in the list of <b>currently-viewable annotations</b>. By default, Adamite will show all annotations authored on that page that are public, in a group the user is in, or are private and were authored by the logged-in user. This is a public annotation, shown by the text that says "Public" under the username "ambear9".
+                            The first annotation in the list of <b>currently-viewable annotations</b>. By default, Adamite will show all annotations authored on that page that are public, in a group the user is in, or are private and were authored by the logged-in user. This is a public annotation, shown by the text that says "Public" under the username "ahorvath".
                         </li>
                         <li>
                             A private annotation that is pinned and has a tag.
