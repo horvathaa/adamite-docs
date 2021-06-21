@@ -88,12 +88,10 @@ const InstallationGuide = () => {
                     With Adamite installed, you can set some preferences for how it operates.
                     <br />
                     <br />
-                    By either right-clicking the Adamite badge in your Chrome URL navigation bar or by clicking the jigsaw puzzle icon and finding Adamite in the list of icons and clicking the 3-dot icon button, you will see a menu that includes an “Options” option.
-                    <br />
-                    <br />
-                    When you are logged into your Adamite account,  you can also click "Options" in the sandwich menu in the top right corner of the sidebar to go to the "Options" page.
+
+                    When you are logged into your Adamite account,  you can click "Options" in the sandwich menu in the top right corner of the sidebar to go to the "Options" page.
                     <div className="img-container">
-                        <img src={options} alt="Options shown in context menu"/>
+                        <img style={{border: "2px solid green"}} src={options} alt="Options shown in sidebar"/>
                     </div>
 
                     You can choose whether you want the sidebar to appear on the right or left side of your screen (default choice is right) and whether you want the content of the webpage that Adamite is on to shrink given the width of the sidebar (default choice is yes). Otherwise, Adamite overlays part of the webpage.
@@ -120,7 +118,7 @@ const InstallationGuide = () => {
                     </p>
 
                     <div className="img-container">
-                        <img src={urlBar} alt="Chrome URL bar with Adamite circled in extension list"/>
+                        <img style={{border: "2px solid green"}} src={urlBar} alt="Chrome URL bar with Adamite circled in extension list"/>
                     </div>
                     <p>
                         Adamite is the circled green gemstone badge in the figure shown above.
@@ -137,7 +135,7 @@ const InstallationGuide = () => {
                         </p>
                     </p>
                     <div className="img-container">
-                        <img src={newUser} alt="Adamite sign in dialogue in sidebar"/>
+                        <img style={{border: "2px solid green"}} src={newUser} alt="Adamite sign in dialogue in sidebar"/>
                     </div>
                     <p>
                         Once your account is created, you can begin annotating with Adamite.
@@ -147,9 +145,9 @@ const InstallationGuide = () => {
                     Making your First Annotation
                 </div>
                 <div className="adamite-description">
-                Now that you are logged in, Adamite should look like this (unless you’re on a page that has already been annotated!):
+                Now that you are logged in, Adamite should look like this on this documentation page, which has an annotation on it:
                     <div className="img-container">
-                        <img src={fresh} alt="Empty sidebar"/>
+                        <img style={{border: "2px solid green"}} src={fresh} alt="New user sidebar"/>
                     </div>
                     <p>
                     We will soon go over all of Adamite’s sidebar’s features, but let’s begin by creating an annotation.
@@ -161,7 +159,7 @@ const InstallationGuide = () => {
                                 <li className="sub-step">
                                     Upon highlighting the text, a menu should appear just below the selection containing 5 buttons, each with an icon and text label.
                                     <div className="img-container">
-                                        <img src={dialogue} alt="Adamite annotation creation popup"/>
+                                        <img style={{border: "2px solid green"}} src={dialogue} alt="Adamite annotation creation popup"/>
                                     </div>
                                 </li>
                                 <li className="sub-step">
@@ -181,7 +179,7 @@ const InstallationGuide = () => {
                         <li>
                             The sidebar will update with an annotation editing pane - add the content you would like to annotate in the text editor (marked “2” in the figure) in the sidebar.
                                 <div className="img-container">
-                                    <img src={newAnno} alt="Marked up figure showing each part of the new annotation dialogue"/>
+                                    <img style={{border: "2px solid green"}} src={newAnno} alt="Marked up figure showing each part of the new annotation dialogue"/>
                                 </div>
                                 <ul>
                                     <li className="sub-step">
@@ -208,9 +206,9 @@ const InstallationGuide = () => {
                             </ul>
                         </li>
                         <li>
-                            The Adamite extension badge in the Chrome navigation bar will also update to show how many annotations are on the current page - it should now say “1”! If you happen to visit a page that has some annotations on it, the Adamite badge will update - make sure you check out what other users have annotated!
+                            The Adamite extension badge in the Chrome navigation bar will also update to show how many annotations are on the current page - it should now say “2” if you annotated this page! If you happen to visit a page that has some annotations on it, the Adamite badge will update - make sure you check out what other users have annotated!
                             <div className="img-container">
-                                    <img src={badge} alt="Adamite badge with text that says '1'"/>
+                                    <img style={{border: "2px solid green"}} src={badge} alt="Adamite badge with text that says '1'"/>
                                 </div>  
                         </li>
 

@@ -65,7 +65,7 @@ function Home() {
           <hr />
           The Chrome extension is currently in the development stage as part of the <a href="http://www.cs.cmu.edu/~NatProg/" className="embedded-link">Natural Programming Project</a>.
         <hr />
-          Team members: <a href="http://www.amberhorvath.com" className="embedded-link">Amber Horvath</a>, <a href="https://lxieyang.github.io/" className="embedded-link">Michael Liu</a>, Connor Shannon, River Hendriksen, <a href="https://kazijawad.com/" className="embedded-link">Kazi Jawad</a>, Andrew Macvean, and <a href="http://www.cs.cmu.edu/~bam/" className="embedded-link">Brad Myers</a>.
+          Team members: <a href="http://www.amberhorvath.com" className="embedded-link">Amber Horvath</a>, <a href="https://lxieyang.github.io/" className="embedded-link">Michael Liu</a>, Connor Shannon, River Hendriksen, Emma Paterson, Imtiaz Rahman, <a href="https://kazijawad.com/" className="embedded-link">Kazi Jawad</a>, Andrew Macvean, and <a href="http://www.cs.cmu.edu/~bam/" className="embedded-link">Brad Myers</a>.
           Contact us through <a href="mailto:ahorvath@andrew.cmu.edu" className="embedded-link">an email to talk about Adamite</a> or through submitting a bug or question related to Adamite by filling out <a href="https://forms.gle/2BAdVdxkWSGHVU2H7" className="embedded-link">this form</a>! 
         </div>
         <h2>Publications</h2>

@@ -14,7 +14,7 @@ const Description = () => {
                 </h3>
             </div>
             <div className="img-container">
-                    <img src={annotationMarkedUp} alt='showing annotation with numbers referencing each part of the annotation' />
+                    <img style={{border: "2px solid green"}} src={annotationMarkedUp} alt='showing annotation with numbers referencing each part of the annotation' />
                 </div>
 
             <div className="breakdown-container">
@@ -22,12 +22,12 @@ const Description = () => {
                 <div className="image-description">
                     <ol>
                         <li>
-                        Name of the <b>annotation author</b> ("documentation" in this case), 
+                        Name of the <b>annotation author</b> ("ahorvath" in this case), 
                         the <b>group name</b> that the annotation has been published to (with "Private" being a default group that is just yourself), and the <b>date and time</b> the annotation was published at.
                         </li>
                         <li>
-                        All of the operations you can perform on an annotation - the arrow is the <b>"reply" button</b> which allows you to reply to an annotation, the "pin" allows you to <b>pin an annotation</b> so that it's always available
-                        in a pinned annotation list, the anchor button allows you to <b>add another anchor</b> to an annotation, the pencil icon allows you to <b>edit</b> an annotation (only available to the original author of an annotation),
+                        All of the operations you can perform on an annotation - the speech bubbles are the <b>"reply" button</b> which allows you to reply to an annotation, the "pin" allows you to <b>pin an annotation</b> so that it's always available
+                        in a pinned annotation list (this annotation is pinned as shown by the filled-in pin icon), the anchor button allows you to <b>add another anchor</b> to an annotation, the pencil icon allows you to <b>edit</b> an annotation (only available to the original author of an annotation),
                         and the trash can icon is used to <b>delete an annotation</b> (only available to the original author of an annotation). The icon in the top right corner shows the <b>type of annotation</b> with this annotation being a "normal" type.
                         </li>
                         <li>
@@ -35,6 +35,9 @@ const Description = () => {
                         </li>
                         <li>
                             The <b>user-generated annotation content</b> that is tied to that anchor point.
+                        </li>
+                        <li>
+                            The <b>tag</b> for this annotation - you can the filter annotation list by clicking on the tag name.
                         </li>
                     </ol>
                 </div>

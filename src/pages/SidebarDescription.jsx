@@ -13,7 +13,7 @@ const SidebarDescription = () => {
                 </h3>
             </div>
             <div className="img-container">
-                    <img src={sidebarMarkedUp} alt='showing sidebar with numbers referencing each part of the sidebar' />
+                    <img style={{border: "2px solid green"}} src={sidebarMarkedUp} alt='showing sidebar with numbers referencing each part of the sidebar' />
                 </div>
 
             <div className="breakdown-container">
@@ -37,10 +37,10 @@ const SidebarDescription = () => {
                             The button to show the user's <b>list of pinned annotations</b>. If a user has no pinned annotatinos, this button will not appear.
                         </li>
                         <li>
-                            The first annotation in the list of <b>currently-viewable annotations</b>. By default, Adamite will show all annotations authored on that page that are public, in a group the user is in, or are private and were authored by the logged-in user.
+                            The first annotation in the list of <b>currently-viewable annotations</b>. By default, Adamite will show all annotations authored on that page that are public, in a group the user is in, or are private and were authored by the logged-in user. This is a public annotation, shown by the text that says "Public" under the username "ambear9".
                         </li>
                         <li>
-                            A collapsed annotation that is also in the list of viewable annotations.
+                            A private annotation that is pinned and has a tag.
                         </li>
                     </ol>
                 </div>
