@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/adamite-docs/static/css/main.272f706b.chunk.css",
-    "main.js": "/adamite-docs/static/js/main.1c4531f0.chunk.js",
-    "main.js.map": "/adamite-docs/static/js/main.1c4531f0.chunk.js.map",
+    "main.js": "/adamite-docs/static/js/main.6467adce.chunk.js",
+    "main.js.map": "/adamite-docs/static/js/main.6467adce.chunk.js.map",
     "runtime-main.js": "/adamite-docs/static/js/runtime-main.6daeb753.js",
     "runtime-main.js.map": "/adamite-docs/static/js/runtime-main.6daeb753.js.map",
     "static/js/2.a0c9cb8b.chunk.js": "/adamite-docs/static/js/2.a0c9cb8b.chunk.js",
@@ -13,20 +13,19 @@
     "static/css/main.272f706b.chunk.css.map": "/adamite-docs/static/css/main.272f706b.chunk.css.map",
     "static/js/2.a0c9cb8b.chunk.js.LICENSE.txt": "/adamite-docs/static/js/2.a0c9cb8b.chunk.js.LICENSE.txt",
     "static/media/adamite.6d147371.jpg": "/adamite-docs/static/media/adamite.6d147371.jpg",
-    "static/media/annotation-marked-up.ffa77fac.png": "/adamite-docs/static/media/annotation-marked-up.ffa77fac.png",
-    "static/media/chrome-url-bar.aafd727b.png": "/adamite-docs/static/media/chrome-url-bar.aafd727b.png",
-    "static/media/create-new-annotation.b0ee609a.png": "/adamite-docs/static/media/create-new-annotation.b0ee609a.png",
-    "static/media/dialogue-pop.a1824739.png": "/adamite-docs/static/media/dialogue-pop.a1824739.png",
-    "static/media/fresh-sidebar.1218f706.png": "/adamite-docs/static/media/fresh-sidebar.1218f706.png",
-    "static/media/new-user.43781edb.png": "/adamite-docs/static/media/new-user.43781edb.png",
-    "static/media/options.ed9c81f9.png": "/adamite-docs/static/media/options.ed9c81f9.png",
-    "static/media/sidebar-annotated.6b4bf9de.png": "/adamite-docs/static/media/sidebar-annotated.6b4bf9de.png",
-    "static/media/updated-sidebar.13749162.png": "/adamite-docs/static/media/updated-sidebar.13749162.png"
+    "static/media/annotation-marked-up.717ee80a.png": "/adamite-docs/static/media/annotation-marked-up.717ee80a.png",
+    "static/media/create-new-annotation.13ed6f4e.png": "/adamite-docs/static/media/create-new-annotation.13ed6f4e.png",
+    "static/media/dialogue-pop.8e8b3fcc.png": "/adamite-docs/static/media/dialogue-pop.8e8b3fcc.png",
+    "static/media/fresh-sidebar.6c164c19.png": "/adamite-docs/static/media/fresh-sidebar.6c164c19.png",
+    "static/media/new-user.c482b507.png": "/adamite-docs/static/media/new-user.c482b507.png",
+    "static/media/options.643df3a4.png": "/adamite-docs/static/media/options.643df3a4.png",
+    "static/media/sidebar-annotated.6f3397d6.png": "/adamite-docs/static/media/sidebar-annotated.6f3397d6.png",
+    "static/media/updated-sidebar.e398e33f.png": "/adamite-docs/static/media/updated-sidebar.e398e33f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6daeb753.js",
     "static/js/2.a0c9cb8b.chunk.js",
     "static/css/main.272f706b.chunk.css",
-    "static/js/main.1c4531f0.chunk.js"
+    "static/js/main.6467adce.chunk.js"
   ]
 }
