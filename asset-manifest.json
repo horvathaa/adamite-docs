@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/adamite-docs/static/css/main.272f706b.chunk.css",
-    "main.js": "/adamite-docs/static/js/main.cdb2bb7a.chunk.js",
-    "main.js.map": "/adamite-docs/static/js/main.cdb2bb7a.chunk.js.map",
+    "main.js": "/adamite-docs/static/js/main.f6093ff0.chunk.js",
+    "main.js.map": "/adamite-docs/static/js/main.f6093ff0.chunk.js.map",
     "runtime-main.js": "/adamite-docs/static/js/runtime-main.6daeb753.js",
     "runtime-main.js.map": "/adamite-docs/static/js/runtime-main.6daeb753.js.map",
     "static/js/2.a0c9cb8b.chunk.js": "/adamite-docs/static/js/2.a0c9cb8b.chunk.js",
@@ -16,16 +16,16 @@
     "static/media/annotation-marked-up.717ee80a.png": "/adamite-docs/static/media/annotation-marked-up.717ee80a.png",
     "static/media/create-new-annotation.13ed6f4e.png": "/adamite-docs/static/media/create-new-annotation.13ed6f4e.png",
     "static/media/dialogue-pop.8e8b3fcc.png": "/adamite-docs/static/media/dialogue-pop.8e8b3fcc.png",
-    "static/media/fresh-sidebar.6c164c19.png": "/adamite-docs/static/media/fresh-sidebar.6c164c19.png",
+    "static/media/fresh-sidebar.b4009ecc.png": "/adamite-docs/static/media/fresh-sidebar.b4009ecc.png",
     "static/media/new-user.c482b507.png": "/adamite-docs/static/media/new-user.c482b507.png",
-    "static/media/options.643df3a4.png": "/adamite-docs/static/media/options.643df3a4.png",
-    "static/media/sidebar-annotated.6f3397d6.png": "/adamite-docs/static/media/sidebar-annotated.6f3397d6.png",
-    "static/media/updated-sidebar.e398e33f.png": "/adamite-docs/static/media/updated-sidebar.e398e33f.png"
+    "static/media/options.64caab04.png": "/adamite-docs/static/media/options.64caab04.png",
+    "static/media/sidebar-annotated.5e48a20d.png": "/adamite-docs/static/media/sidebar-annotated.5e48a20d.png",
+    "static/media/updated-sidebar.4c05343f.png": "/adamite-docs/static/media/updated-sidebar.4c05343f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6daeb753.js",
     "static/js/2.a0c9cb8b.chunk.js",
     "static/css/main.272f706b.chunk.css",
-    "static/js/main.cdb2bb7a.chunk.js"
+    "static/js/main.f6093ff0.chunk.js"
   ]
 }
