@@ -76,7 +76,7 @@ function Home() {
           <p>
         {!showVideo ? 
                         (<div style={{cursor: "pointer"}} className="embedded-link" onClick={() => setShowVideo(true)}>
-                            <b>Click here to show a 5-minute video demo of Adamite.</b>
+                            <b>Click here to show a 5-minute video demo of Adamite (note that this demo uses an older version of Adamite with a slightly different UI).</b>
                             </div>)
                     : 
                         (<div style={{cursor: "pointer"}} className="embedded-link" onClick={() => setShowVideo(false)}>
