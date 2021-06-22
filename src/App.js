@@ -48,20 +48,23 @@ function Home() {
           </div>
           <b>Adamite</b> is an annotation tool designed to help developers when learning a new software framework.
           <br />
+          <br />
+          Use Adamite to help yourself <i>keep track of</i> and <i>structure</i> useful resources with annotation types and tags, then <i>share your annotations with your teammates</i> by using Adamite's group system.
+          <br />
           {/* <a href="https://drive.google.com/file/d/1iZVJ7-paTvxFk05is-cDABp5VmjO6aSz/view?usp=sharing" className="btn">Download Adamite here!</a> */}
           <a href="https://forms.gle/hSGiwY5tqooSLzxT9" className="btn">Sign up for our field study and download Adamite here!</a>
-          &nbsp; &nbsp;<Link to="/docs" className="btn">Installation Instructions Here</Link>
+          &nbsp; &nbsp;<Link to="/docs" className="btn">Documentation Here</Link>
         </div>
         <h2 id="Overview">Overview</h2>
         <div className="description">
           <p>
-            Adamite is a browser plugin that supports annotating web resources, such as documentation. Currently, Adamite only works on the Chrome web browser running on a desktop computer (not on phones or tablets).
+            Adamite is a browser plugin that supports annotating web resources, such as documentation.  Currently, Adamite only works on the Chrome web browser running on a desktop computer (not on phones or tablets).
           </p>
           
           You can use Adamite's annotation types to organize and structure the information you find online and save it into a sidebar.
           With Adamite's searching, tagging, filtering, and pinning mechanisms, you can keep track of the information you want to follow up on.
           You can also connect information using Adamite's multi-anchoring system, as you try and find useful information.
-          You can then share your annotations with your colleagues, using Adamite's group system.
+          When you're ready, share your annotations with your colleagues through Adamite's groups.
           <hr />
           The Chrome extension is currently in the development stage as part of the <a href="http://www.cs.cmu.edu/~NatProg/" className="embedded-link">Natural Programming Project</a>.
         <hr />
