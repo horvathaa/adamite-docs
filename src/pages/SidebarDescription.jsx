@@ -21,17 +21,16 @@ const SidebarDescription = () => {
                 <div className="image-description">
                     <ol>
                         <li>
-                            Name of the <b>logged-in user</b> ("docdemo" in this case) - users can log out by hovering over the user icon. Users can also create a <b>page-level annotation</b> by clicking on the  <b>sandwich menu</b>
-                             , where a page level annotation can be used for annotating information that is relevant to the whole web page.
+                            Name of the <b>currently-selected group</b> ("Public" in this case) - "Public" is a default group that shows all of the annotations that are on this page and public, your private annotations, and annotations that are shared with you through a group. You can select a different group by clicking on the text that says "Public". 
+                            The sandwich menu to the right of the group dropdown allows you to see your username and email, add a page-level annotation, create a new group, close the sidebar, view the options menu, view the documentation, submit a bug, and sign out (see the picture under "Setting Up Adamite").
                         </li>
                         <li>
                             The <b>search bar</b> can be used to search for annotations - annotations can be searched globally, on the website, or on the page. Searched for annotations will match on anchor content, annotation content,
                             and tags. 
                         </li>
                         <li>
-                            Filters that will change the set of currently-viewable annotations in the sidebar. The <b>groups filter</b> sets the sidebar to show annotations that are in that group, with the default groups being public and private.
-                            The <b>time filter</b> can be used to filter out older annotations, with the default state set to show annotations that were created at any time. The <b>annotation type</b> filter
-                            sets which annotation type is currently viewable in the sidebar. You can also sort the annotation list by where the annotation is located on the page, or by when the annotation was created. You can also filter by tag by clicking on the <b>"Select Tag"</b> filter. The number in the bottom right corner shows <b>how many annotations are viewable</b> in the sidebar.
+                            Filters that will change the set of currently-viewable annotations in the sidebar. The <b>time filter</b> can be used to filter out older annotations, with the default state set to show annotations that were created at any time. The <b>annotation type</b> filter
+                            sets which annotation type is currently viewable in the sidebar. You can also sort the annotation list by where the annotation is located on the page, or by when the annotation was created. You can also filter by tag by clicking on the <b>"Tags"</b> filter. The number in the bottom right corner shows <b>how many annotations are viewable</b> in the sidebar.
                         </li>
                         <li>
                             The button to show the user's <b>list of pinned annotations</b>. If a user has no pinned annotatinos, this button will not appear.

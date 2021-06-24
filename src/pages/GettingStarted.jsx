@@ -127,7 +127,7 @@ const InstallationGuide = () => {
                         Adamite will remember whether you had it open or closed such that, when you refresh your tab, it will either open automatically if you previously had it open or will remain closed if you previously had it closed. 
                     </p>
                     <p>
-                        When the Adamite sidebar opens, you can create a new account. You must have an account to use Adamite. Use a valid email address (however, Adamite does not check for now), and make up your own password.
+                        When the Adamite sidebar opens, you can create a new account. You must have an account to use Adamite. Use a valid email address (however, Adamite does not check for now), and make up your own password. You may also sign in with your Google account using Google's authentication.
                         <p>
                             <b> 
                                 Please use the same email that you used when agreeing to the study consent form.
