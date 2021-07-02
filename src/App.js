@@ -7,6 +7,7 @@ import adamiteStone from './assets/adamite.jpg';
 import Description from './pages/Description';
 import SidebarDescription from './pages/SidebarDescription';
 import InstallationGuide from './pages/GettingStarted';
+import GroupsGuide from './pages/Groups';
 
 export default function App() {
   return (
@@ -112,6 +113,7 @@ function Docs() {
       <header className="Docs-header container">
           <h2 className="pageHeader">Adamite Overview</h2>
           <InstallationGuide />
+          <GroupsGuide />
           <SidebarDescription />
           <Description />
           
