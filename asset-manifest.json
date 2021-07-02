@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/adamite-docs/static/css/main.272f706b.chunk.css",
-    "main.js": "/adamite-docs/static/js/main.d9487b51.chunk.js",
-    "main.js.map": "/adamite-docs/static/js/main.d9487b51.chunk.js.map",
+    "main.css": "/adamite-docs/static/css/main.7f023508.chunk.css",
+    "main.js": "/adamite-docs/static/js/main.9d635fac.chunk.js",
+    "main.js.map": "/adamite-docs/static/js/main.9d635fac.chunk.js.map",
     "runtime-main.js": "/adamite-docs/static/js/runtime-main.6daeb753.js",
     "runtime-main.js.map": "/adamite-docs/static/js/runtime-main.6daeb753.js.map",
     "static/js/2.a0c9cb8b.chunk.js": "/adamite-docs/static/js/2.a0c9cb8b.chunk.js",
@@ -10,22 +10,28 @@
     "static/js/3.42e4d945.chunk.js": "/adamite-docs/static/js/3.42e4d945.chunk.js",
     "static/js/3.42e4d945.chunk.js.map": "/adamite-docs/static/js/3.42e4d945.chunk.js.map",
     "index.html": "/adamite-docs/index.html",
-    "static/css/main.272f706b.chunk.css.map": "/adamite-docs/static/css/main.272f706b.chunk.css.map",
+    "static/css/main.7f023508.chunk.css.map": "/adamite-docs/static/css/main.7f023508.chunk.css.map",
     "static/js/2.a0c9cb8b.chunk.js.LICENSE.txt": "/adamite-docs/static/js/2.a0c9cb8b.chunk.js.LICENSE.txt",
     "static/media/adamite.6d147371.jpg": "/adamite-docs/static/media/adamite.6d147371.jpg",
     "static/media/annotation-marked-up.717ee80a.png": "/adamite-docs/static/media/annotation-marked-up.717ee80a.png",
+    "static/media/create-group-ctd.0687f6ff.png": "/adamite-docs/static/media/create-group-ctd.0687f6ff.png",
+    "static/media/create-group.d29855e4.PNG": "/adamite-docs/static/media/create-group.d29855e4.PNG",
     "static/media/create-new-annotation.13ed6f4e.png": "/adamite-docs/static/media/create-new-annotation.13ed6f4e.png",
     "static/media/dialogue-pop.8e8b3fcc.png": "/adamite-docs/static/media/dialogue-pop.8e8b3fcc.png",
     "static/media/fresh-sidebar.b4009ecc.png": "/adamite-docs/static/media/fresh-sidebar.b4009ecc.png",
+    "static/media/group-annotation.b336169b.png": "/adamite-docs/static/media/group-annotation.b336169b.png",
     "static/media/new-user.c482b507.png": "/adamite-docs/static/media/new-user.c482b507.png",
     "static/media/options.64caab04.png": "/adamite-docs/static/media/options.64caab04.png",
+    "static/media/question.d27f2ba9.png": "/adamite-docs/static/media/question.d27f2ba9.png",
+    "static/media/select-group-create-anno.a988a5bd.png": "/adamite-docs/static/media/select-group-create-anno.a988a5bd.png",
+    "static/media/select-group-from-groups.6e90ed46.png": "/adamite-docs/static/media/select-group-from-groups.6e90ed46.png",
     "static/media/sidebar-annotated.5e48a20d.png": "/adamite-docs/static/media/sidebar-annotated.5e48a20d.png",
     "static/media/updated-sidebar.4c05343f.png": "/adamite-docs/static/media/updated-sidebar.4c05343f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6daeb753.js",
     "static/js/2.a0c9cb8b.chunk.js",
-    "static/css/main.272f706b.chunk.css",
-    "static/js/main.d9487b51.chunk.js"
+    "static/css/main.7f023508.chunk.css",
+    "static/js/main.9d635fac.chunk.js"
   ]
 }
