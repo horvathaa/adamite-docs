@@ -213,9 +213,9 @@ const InstallationGuide = () => {
                         </li>
 
                     </ol>
-                <p>
-                    Now, let's discuss the sidebar in more depth.
-                </p>
+                    <p>
+                       Since we now know how to create annotations, let's learn how to share them with our collaborators.
+                    </p>
                 </div>
                 
             </div>

@@ -49,7 +49,9 @@ const GroupsGuide = () => {
                     <div className="img-container">
                         <img src={selectGroupFromGroup} style={{border: "2px solid green"}}  alt="group dropdown" />
                     </div>
-
+                    <p>
+                        Now, let's discuss the sidebar in more depth.
+                    </p>
                 </div>
 
             
