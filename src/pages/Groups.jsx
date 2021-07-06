@@ -17,7 +17,7 @@ const GroupsGuide = () => {
                 </div>
                 <div className="adamite-description">
                     One feature of Adamite is sharing annotations with groups of developers. By default, Adamite supports public annotations and private annotations, where public annotations are viewable by anyone and private annotations are only viewable by you, the author.
-                    You can create your own group of users to share annotations with a set of collaborators. To create a group, select "Create New Group" from the sandwich menu.
+                    You can create your own group of users to share annotations with. To create a group, select "Create New Group" from the sandwich menu.
                     <div className="img-container">
                         <img src={createGroup} style={{border: "2px solid green"}} alt="create group in dropdown menu" />
                     </div>
