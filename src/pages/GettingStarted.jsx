@@ -78,7 +78,7 @@ const InstallationGuide = () => {
                         Hide?
                     </div>)}
                 </div>
-                {showVideo && <div className="img-container">
+                {showVideo && <div className="image-container">
                     <Video path={'video/adamite-install.mov'}/>
                 </div>}
                 <div className="sub-sub-header">
@@ -90,7 +90,7 @@ const InstallationGuide = () => {
                     <br />
 
                     When you are logged into your Adamite account,  you can click "Options" in the sandwich menu in the top right corner of the sidebar to go to the "Options" page.
-                    <div className="img-container">
+                    <div className="image-container">
                         <img style={{border: "2px solid green"}} src={options} alt="Options shown in sidebar"/>
                     </div>
 
@@ -117,7 +117,7 @@ const InstallationGuide = () => {
                         If you ever want to open or close the sidebar, you can click the Adamite badge at the right side of the Chrome URL navigation bar. When you are signed into Adamite, you can also close the sidebar by selecting the "Close Sidebar" option from the sandwich menu.
                     </p>
 
-                    <div className="img-container">
+                    <div className="image-container">
                         <img style={{border: "2px solid green"}} src={urlBar} alt="Chrome URL bar with Adamite circled in extension list"/>
                     </div>
                     <p>
@@ -134,7 +134,7 @@ const InstallationGuide = () => {
                             </b>
                         </p>
                     </p>
-                    <div className="img-container">
+                    <div className="image-container">
                         <img style={{border: "2px solid green"}} src={newUser} alt="Adamite sign in dialogue in sidebar"/>
                     </div>
                     <p>
@@ -146,7 +146,7 @@ const InstallationGuide = () => {
                 </div>
                 <div className="adamite-description">
                 Now that you are logged in, Adamite should look like this on this documentation page, which has an annotation on it:
-                    <div className="img-container">
+                    <div className="image-container">
                         <img style={{border: "2px solid green"}} src={fresh} alt="New user sidebar"/>
                     </div>
                     <p>
@@ -158,7 +158,7 @@ const InstallationGuide = () => {
                             <ul>
                                 <li className="sub-step">
                                     Upon highlighting the text, a menu should appear just below the selection containing 5 buttons, each with an icon and text label.
-                                    <div className="img-container">
+                                    <div className="image-container">
                                         <img style={{border: "2px solid green"}} src={dialogue} alt="Adamite annotation creation popup"/>
                                     </div>
                                 </li>
@@ -178,7 +178,7 @@ const InstallationGuide = () => {
                         </li>
                         <li>
                             The sidebar will update with an annotation editing pane - add the content you would like to annotate in the text editor (marked “2” in the figure) in the sidebar.
-                                <div className="img-container">
+                                <div className="image-container">
                                     <img style={{border: "2px solid green"}} src={newAnno} alt="Marked up figure showing each part of the new annotation dialogue"/>
                                 </div>
                                 <ul>
@@ -200,14 +200,14 @@ const InstallationGuide = () => {
                                 <li className="sub-step">
                                     Your annotation will appear in the sidebar and the text that you annotated will now stay highlighted on the webpage.
                                 </li>
-                                <div className="img-container">
+                                <div className="image-container">
                                     <img style={{border: "2px solid green"}} src={updated} alt="Sidebar with new annotation in it"/>
                                 </div>
                             </ul>
                         </li>
                         <li>
                             The Adamite extension badge in the Chrome navigation bar will also update to show how many annotations are on the current page - it should now say “2” if you annotated this page! If you happen to visit a page that has some annotations on it, the Adamite badge will update - make sure you check out what other users have annotated!
-                            <div className="img-container">
+                            <div className="image-container">
                                     <img style={{border: "2px solid green"}} src={badge} alt="Adamite badge with text that says '1'"/>
                                 </div>  
                         </li>

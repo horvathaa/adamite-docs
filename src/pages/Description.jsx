@@ -13,7 +13,7 @@ const Description = () => {
                 What is an annotation in Adamite?
                 </h3>
             </div>
-            <div className="img-container">
+            <div className="image-container">
                     <img style={{border: "2px solid green"}} src={annotationMarkedUp} alt='showing annotation with numbers referencing each part of the annotation' />
                 </div>
 

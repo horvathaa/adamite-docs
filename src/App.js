@@ -44,7 +44,7 @@ function Home() {
     return(
       <header className="App-header">
         <div className="body-description">
-          <div className="img-container">
+          <div className="image-container">
           <img src={adamiteStone} alt="Adamite stone" />
           </div>
           <b>Adamite</b> is an annotation tool designed to help developers when learning a new software framework.
@@ -86,7 +86,7 @@ function Home() {
                         (<div style={{cursor: "pointer"}} className="embedded-link" onClick={() => setShowVideo(false)}>
                             <b>Hide?</b>
                         </div>)}
-                    {showVideo && <div className="img-container">
+                    {showVideo && <div className="image-container">
                         <Video path={'video/adamite-demo.mp4'}/>
                     </div>}
                     </p>
