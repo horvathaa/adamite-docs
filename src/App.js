@@ -15,7 +15,8 @@ export default function App() {
     <div className="App">
       <nav>
         <Link to="/">Home</Link> &nbsp; &nbsp;
-      <Link to="/docs">Documentation</Link>
+        <Link to="/docs">Documentation</Link> &nbsp; &nbsp;
+        <a href="https://adamite.netlify.app/">Annotation List Site</a>
       </nav>
           
 
@@ -55,6 +56,9 @@ function Home() {
           {/* <a href="https://drive.google.com/file/d/1iZVJ7-paTvxFk05is-cDABp5VmjO6aSz/view?usp=sharing" className="btn">Download Adamite here!</a> */}
           <a href="https://forms.gle/hSGiwY5tqooSLzxT9" className="btn">Sign up for our field study and download Adamite here!</a>
           &nbsp; &nbsp;<Link to="/docs" className="btn">Documentation Here</Link>
+          <div className="body-description">
+            Already an Adamite user? View and manage your annotations on our website <a className="large-btn" href="https://adamite.netlify.app/">here</a>.
+          </div>
         </div>
         <h2 id="Overview">Overview</h2>
         <div className="description">
